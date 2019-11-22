@@ -1,0 +1,348 @@
+2019-08-12 11:00:50,901 - INFO - Cadastrando turno.
+2019-08-12 11:32:17,854 - INFO - Cadastrando escola.
+2019-08-14 11:39:06,226 - INFO - Cadastrando turno.
+2019-08-14 11:40:47,649 - INFO - Cadastrando campi.
+2019-08-15 07:54:19,301 - INFO - Cadastrando campus.
+2019-08-15 07:54:19,329 - ERROR - Aconteceu um erro.
+2019-08-15 07:54:57,421 - INFO - Cadastrando campus.
+2019-08-15 07:54:57,421 - ERROR - Aconteceu um erro.
+2019-08-15 07:56:13,791 - INFO - Listando campus.
+2019-08-15 07:56:13,791 - ERROR - Aconteceu um erro.
+2019-08-15 07:58:13,158 - INFO - Listando campus.
+2019-08-15 07:58:13,159 - ERROR - Aconteceu um erro.
+2019-08-15 07:59:00,078 - INFO - Listando campus.
+2019-08-15 07:59:00,079 - ERROR - Aconteceu um erro.
+2019-08-15 08:00:10,463 - INFO - Listando campus.
+2019-08-15 08:00:10,464 - ERROR - Aconteceu um erro.
+2019-08-15 08:06:27,166 - INFO - Listando campus
+2019-08-15 08:06:27,167 - ERROR - Aconteceu um erro.
+2019-08-15 08:07:37,705 - INFO - Listando campus
+2019-08-15 08:07:37,706 - ERROR - Aconteceu um erro.
+2019-08-15 08:07:57,083 - INFO - Listando campus
+2019-08-15 08:07:57,084 - ERROR - Aconteceu um erro.
+2019-08-15 08:10:13,524 - INFO - Listando campus
+2019-08-15 08:10:13,524 - ERROR - Aconteceu um erro.
+2019-08-15 08:14:12,506 - INFO - Listando campus
+2019-08-15 08:14:12,507 - ERROR - Aconteceu um erro.
+2019-08-15 08:14:12,507 - INFO - Campus listados com sucesso.
+2019-08-15 08:14:21,220 - INFO - Cadastrando campus.
+2019-08-15 08:14:21,221 - ERROR - Aconteceu um erro.
+2019-08-15 08:14:25,168 - INFO - Listando campus
+2019-08-15 08:14:25,169 - ERROR - Aconteceu um erro.
+2019-08-15 08:14:25,169 - INFO - Campus listados com sucesso.
+2019-08-15 08:14:26,400 - INFO - Listando campus
+2019-08-15 08:14:26,400 - ERROR - Aconteceu um erro.
+2019-08-15 08:14:26,400 - INFO - Campus listados com sucesso.
+2019-08-15 08:14:36,392 - INFO - Listando campus
+2019-08-15 08:14:36,392 - ERROR - Aconteceu um erro.
+2019-08-15 08:14:36,393 - INFO - Campus listados com sucesso.
+2019-08-15 08:14:48,797 - INFO - Cadastrando campus.
+2019-08-15 08:14:48,798 - ERROR - Aconteceu um erro.
+2019-08-15 08:15:54,031 - INFO - Cadastrando campus.
+2019-08-15 08:15:54,031 - ERROR - Aconteceu um erro.
+2019-08-15 08:15:57,832 - INFO - Listando campus
+2019-08-15 08:15:57,833 - ERROR - Aconteceu um erro.
+2019-08-15 08:15:57,833 - INFO - Campus listados com sucesso.
+2019-08-15 08:15:58,775 - INFO - Listando campus
+2019-08-15 08:15:58,776 - ERROR - Aconteceu um erro.
+2019-08-15 08:15:58,776 - INFO - Campus listados com sucesso.
+2019-08-15 08:15:58,989 - INFO - Listando campus
+2019-08-15 08:15:58,989 - ERROR - Aconteceu um erro.
+2019-08-15 08:15:58,990 - INFO - Campus listados com sucesso.
+2019-08-15 08:21:54,140 - INFO - Cadastrando aluno...
+2019-08-15 08:22:35,730 - INFO - Cadastrando aluno...
+2019-08-15 08:22:39,288 - INFO - Cadastrando aluno...
+2019-08-15 08:23:15,621 - INFO - Cadastrando aluno...
+2019-08-15 08:23:15,622 - ERROR - Aconteceu um erro.
+2019-08-15 08:24:24,914 - INFO - Listando alunos.
+2019-08-15 08:24:24,915 - ERROR - Aconteceu um erro.
+2019-08-15 08:25:53,326 - INFO - Listando alunos.
+2019-08-15 08:25:53,327 - ERROR - Aconteceu um erro.
+2019-08-15 08:28:04,909 - INFO - Listando alunos.
+2019-08-15 08:28:04,910 - ERROR - Aconteceu um erro
+2019-08-15 08:28:04,910 - INFO - Alunos listado com sucesso.
+2019-08-15 08:29:37,717 - INFO - Listando campus
+2019-08-15 08:29:37,717 - ERROR - Aconteceu um erro.
+2019-08-15 08:29:37,717 - INFO - Campus listados com sucesso.
+2019-08-15 08:30:26,860 - INFO - Listando alunos.
+2019-08-15 08:30:26,860 - ERROR - Aconteceu um erro
+2019-08-15 08:30:26,860 - INFO - Alunos listado com sucesso.
+2019-08-15 08:33:00,878 - INFO - Listando campus
+2019-08-15 08:33:00,879 - ERROR - Aconteceu um erro.
+2019-08-15 08:33:00,879 - INFO - Campus listados com sucesso.
+2019-08-15 08:33:01,843 - INFO - Listando campus
+2019-08-15 08:33:01,844 - ERROR - Aconteceu um erro.
+2019-08-15 08:33:01,844 - INFO - Campus listados com sucesso.
+2019-08-15 08:33:02,013 - INFO - Listando campus
+2019-08-15 08:33:02,013 - ERROR - Aconteceu um erro.
+2019-08-15 08:33:02,014 - INFO - Campus listados com sucesso.
+2019-08-15 08:33:02,218 - INFO - Listando campus
+2019-08-15 08:33:02,218 - ERROR - Aconteceu um erro.
+2019-08-15 08:33:02,219 - INFO - Campus listados com sucesso.
+2019-08-15 08:33:02,433 - INFO - Listando campus
+2019-08-15 08:33:02,434 - ERROR - Aconteceu um erro.
+2019-08-15 08:33:02,434 - INFO - Campus listados com sucesso.
+2019-08-15 08:33:02,735 - INFO - Listando campus
+2019-08-15 08:33:02,736 - ERROR - Aconteceu um erro.
+2019-08-15 08:33:02,736 - INFO - Campus listados com sucesso.
+2019-08-15 08:33:03,081 - INFO - Listando campus
+2019-08-15 08:33:03,082 - ERROR - Aconteceu um erro.
+2019-08-15 08:33:03,082 - INFO - Campus listados com sucesso.
+2019-08-15 08:33:03,502 - INFO - Listando campus
+2019-08-15 08:33:03,503 - ERROR - Aconteceu um erro.
+2019-08-15 08:33:03,503 - INFO - Campus listados com sucesso.
+2019-08-15 08:33:03,920 - INFO - Listando campus
+2019-08-15 08:33:03,920 - ERROR - Aconteceu um erro.
+2019-08-15 08:33:03,920 - INFO - Campus listados com sucesso.
+2019-08-15 08:33:04,103 - INFO - Listando campus
+2019-08-15 08:33:04,104 - ERROR - Aconteceu um erro.
+2019-08-15 08:33:04,104 - INFO - Campus listados com sucesso.
+2019-08-15 08:33:04,286 - INFO - Listando campus
+2019-08-15 08:33:04,286 - ERROR - Aconteceu um erro.
+2019-08-15 08:33:04,286 - INFO - Campus listados com sucesso.
+2019-08-15 08:33:04,463 - INFO - Listando campus
+2019-08-15 08:33:04,464 - ERROR - Aconteceu um erro.
+2019-08-15 08:33:04,464 - INFO - Campus listados com sucesso.
+2019-08-15 08:33:04,655 - INFO - Listando campus
+2019-08-15 08:33:04,655 - ERROR - Aconteceu um erro.
+2019-08-15 08:33:04,655 - INFO - Campus listados com sucesso.
+2019-08-15 08:35:57,250 - INFO - Listando campus
+2019-08-15 08:35:57,251 - ERROR - Aconteceu um erro.
+2019-08-15 08:35:57,251 - INFO - Campus listados com sucesso.
+2019-08-15 08:36:01,560 - INFO - Cadastrando aluno...
+2019-08-15 08:36:34,519 - INFO - Cadastrando aluno...
+2019-08-15 08:36:34,520 - ERROR - Aconteceu um erro.
+2019-08-15 08:36:34,520 - INFO - Aluno Cadastrado com sucesso.
+2019-08-15 08:36:43,163 - INFO - Listando alunos.
+2019-08-15 08:36:43,163 - ERROR - Aconteceu um erro
+2019-08-15 08:36:43,164 - INFO - Alunos listado com sucesso.
+2019-08-15 08:40:55,519 - INFO - Listando alunos.
+2019-08-15 08:40:55,520 - ERROR - Aconteceu um erro
+2019-08-15 08:40:55,520 - INFO - Alunos listado com sucesso.
+2019-08-15 08:40:56,377 - INFO - Listando alunos.
+2019-08-15 08:40:56,378 - ERROR - Aconteceu um erro
+2019-08-15 08:40:56,378 - INFO - Alunos listado com sucesso.
+2019-08-15 08:40:56,564 - INFO - Listando alunos.
+2019-08-15 08:40:56,564 - ERROR - Aconteceu um erro
+2019-08-15 08:40:56,564 - INFO - Alunos listado com sucesso.
+2019-08-15 08:40:56,758 - INFO - Listando alunos.
+2019-08-15 08:40:56,758 - ERROR - Aconteceu um erro
+2019-08-15 08:40:56,758 - INFO - Alunos listado com sucesso.
+2019-08-15 08:40:56,936 - INFO - Listando alunos.
+2019-08-15 08:40:56,937 - ERROR - Aconteceu um erro
+2019-08-15 08:40:56,937 - INFO - Alunos listado com sucesso.
+2019-08-15 08:40:57,174 - INFO - Listando alunos.
+2019-08-15 08:40:57,175 - ERROR - Aconteceu um erro
+2019-08-15 08:40:57,175 - INFO - Alunos listado com sucesso.
+2019-08-15 08:40:57,642 - INFO - Listando alunos.
+2019-08-15 08:40:57,643 - ERROR - Aconteceu um erro
+2019-08-15 08:40:57,643 - INFO - Alunos listado com sucesso.
+2019-08-15 08:43:51,493 - INFO - Cadastrando aluno...
+2019-08-15 08:43:51,494 - ERROR - Aconteceu um erro.
+2019-08-15 08:43:51,494 - INFO - Aluno Cadastrado com sucesso.
+2019-08-15 13:08:57,734 - INFO - Cadastrando aluno...
+2019-08-15 13:08:57,745 - ERROR - Aconteceu um erro.
+2019-08-15 13:08:57,745 - INFO - Aluno Cadastrado com sucesso.
+2019-08-15 13:09:11,812 - INFO - Cadastrando campus.
+2019-08-15 13:09:11,813 - ERROR - Aconteceu um erro.
+2019-08-15 13:09:15,316 - INFO - Listando campus
+2019-08-15 13:09:15,317 - ERROR - Aconteceu um erro.
+2019-08-15 13:09:15,317 - INFO - Campus listados com sucesso.
+2019-08-15 13:09:18,750 - INFO - Listando alunos.
+2019-08-15 13:09:18,751 - ERROR - Aconteceu um erro
+2019-08-15 13:09:18,751 - INFO - Alunos listado com sucesso.
+2019-08-15 13:14:37,389 - INFO - Cadastrando endereco.
+2019-08-15 13:14:37,389 - ERROR - Aconteceu um erro.
+2019-08-15 13:15:14,173 - INFO - Listando alunos.
+2019-08-15 13:15:14,174 - ERROR - Aconteceu um erro
+2019-08-15 13:15:14,175 - INFO - Alunos listado com sucesso.
+2019-08-15 13:15:38,175 - INFO - Listando endereços.
+2019-08-15 13:15:38,176 - ERROR - Aconteceu um erro.
+2019-08-15 13:16:21,830 - INFO - Listando endereços.
+2019-08-15 13:16:21,831 - ERROR - Aconteceu um erro.
+2019-08-15 13:16:21,831 - INFO - Endereços listados com sucesso.
+2019-08-15 13:18:45,294 - INFO - Cadastrando turno.
+2019-08-15 13:18:45,295 - ERROR - Aconteceu um erro.
+2019-08-15 13:19:11,192 - INFO - Listando turnos.
+2019-08-15 13:19:11,193 - ERROR - Aconteceu um erro.
+2019-08-15 13:26:36,428 - INFO - Listando turnos.
+2019-08-15 13:26:36,429 - ERROR - Aconteceu um erro.
+2019-08-15 13:26:36,429 - INFO - Turnos listados com sucesso.
+2019-08-15 13:28:16,232 - INFO - Cadastrando turma.
+2019-08-15 13:28:58,518 - INFO - Cadastrando turma.
+2019-08-15 13:29:16,998 - INFO - Cadastrando turma.
+2019-08-15 13:30:21,730 - INFO - Cadastrando turma.
+2019-08-15 13:30:21,731 - ERROR - Aconteceu um erro.
+2019-08-15 13:30:21,731 - INFO - Turma cadastrada com sucesso.
+2019-08-15 13:30:45,290 - INFO - Listando turmas.
+2019-08-15 13:30:45,291 - ERROR - Aconteceu um erro.
+2019-08-15 13:30:45,291 - INFO - Turmas listadas com sucesso.
+2019-08-15 13:34:02,173 - INFO - Cadastrando disciplina.
+2019-08-15 13:34:41,366 - INFO - Cadastrando disciplina.
+2019-08-15 13:34:41,367 - ERROR - Aconteceu um erro.
+2019-08-15 13:34:41,367 - INFO - Disciplina cadastrada com sucesso.
+2019-08-15 13:35:31,409 - INFO - Listando disciplinas.
+2019-08-15 13:35:31,409 - ERROR - Aconteceu um erro.
+2019-08-15 13:35:31,410 - INFO - Disciplinas listadas com sucesso.
+2019-08-15 13:40:22,692 - INFO - Cadastrando professor.
+2019-08-15 13:41:00,752 - INFO - Cadastrando professor.
+2019-08-15 13:41:33,619 - INFO - Cadastrando professor.
+2019-08-15 13:41:33,619 - ERROR - Aconteceu um erro.
+2019-08-15 13:42:32,186 - INFO - Listando professores.
+2019-08-15 13:42:32,187 - ERROR - Aconteceu um erro.
+2019-08-15 13:42:32,187 - INFO - Professores listados com sucesso.
+2019-08-15 13:45:19,264 - INFO - Cadastrando escola.
+2019-08-15 13:46:24,931 - INFO - Cadastrando escola.
+2019-08-15 13:46:24,931 - ERROR - Aconteceu um erro.
+2019-08-15 13:46:24,932 - INFO - Escola cadastrada com sucesso.
+2019-08-15 13:46:54,637 - INFO - Listando escolas.
+2019-08-15 13:46:54,638 - ERROR - Aconteceu um erro.
+2019-08-15 13:48:55,132 - INFO - Cadastrando curso.
+2019-08-15 13:49:39,916 - INFO - Cadastrando curso.
+2019-08-15 13:50:03,120 - INFO - Cadastrando curso.
+2019-08-15 13:50:03,120 - ERROR - Aconteceu um erro.
+2019-08-15 13:50:03,121 - INFO - Curso cadastrado com sucesso.
+2019-08-15 13:50:35,495 - INFO - Listando cursos.
+2019-08-15 13:50:35,496 - ERROR - Aconteceu um erro.
+2019-08-15 13:50:35,496 - INFO - Cursos listados com sucesso.
+2019-08-15 13:57:17,945 - INFO - Listando cursos.
+2019-08-15 13:57:17,945 - ERROR - Aconteceu um erro.
+2019-08-15 13:57:17,946 - INFO - Cursos listados com sucesso.
+2019-08-15 14:02:51,396 - INFO - Listando alunos.
+2019-08-15 14:02:51,397 - ERROR - Aconteceu um erro
+2019-08-15 14:02:51,397 - INFO - Alunos listado com sucesso.
+2019-08-15 14:03:00,409 - INFO - Listando endereços.
+2019-08-15 14:03:00,410 - ERROR - Aconteceu um erro.
+2019-08-15 14:03:00,410 - INFO - Endereços listados com sucesso.
+2019-08-15 14:04:54,668 - INFO - Listando endereços.
+2019-08-15 14:04:54,668 - ERROR - Aconteceu um erro.
+2019-08-15 14:04:54,668 - INFO - Endereços listados com sucesso.
+2019-08-15 14:05:13,764 - INFO - Listando endereços.
+2019-08-15 14:05:13,765 - ERROR - Aconteceu um erro.
+2019-08-15 14:05:13,765 - INFO - Endereços listados com sucesso.
+2019-08-15 14:07:21,205 - INFO - Listando alunos.
+2019-08-15 14:07:21,205 - ERROR - Aconteceu um erro
+2019-08-15 14:07:21,205 - INFO - Alunos listado com sucesso.
+2019-08-15 14:08:37,793 - INFO - Listando alunos.
+2019-08-15 14:08:37,793 - ERROR - Aconteceu um erro
+2019-08-15 14:09:16,298 - INFO - Listando alunos.
+2019-08-15 14:09:16,299 - ERROR - Aconteceu um erro
+2019-08-15 14:11:03,096 - INFO - Listando alunos.
+2019-08-15 14:11:03,097 - ERROR - Aconteceu um erro
+2019-08-15 14:11:03,097 - INFO - Alunos listado com sucesso.
+2019-08-15 14:11:56,335 - INFO - Listando alunos.
+2019-08-15 14:11:56,335 - ERROR - Aconteceu um erro
+2019-08-15 14:11:56,336 - INFO - Alunos listado com sucesso.
+2019-08-15 14:12:04,257 - INFO - Listando endereços.
+2019-08-15 14:12:04,257 - ERROR - Aconteceu um erro.
+2019-08-15 14:12:04,257 - INFO - Endereços listados com sucesso.
+2019-08-15 14:15:05,756 - INFO - Listando cursos.
+2019-08-15 14:15:05,756 - ERROR - Aconteceu um erro.
+2019-08-15 14:15:05,756 - INFO - Cursos listados com sucesso.
+2019-08-15 14:15:07,572 - INFO - Listando cursos.
+2019-08-15 14:15:07,573 - ERROR - Aconteceu um erro.
+2019-08-15 14:15:07,573 - INFO - Cursos listados com sucesso.
+2019-08-15 14:15:07,807 - INFO - Listando cursos.
+2019-08-15 14:15:07,808 - ERROR - Aconteceu um erro.
+2019-08-15 14:15:07,808 - INFO - Cursos listados com sucesso.
+2019-08-15 14:15:07,995 - INFO - Listando cursos.
+2019-08-15 14:15:07,996 - ERROR - Aconteceu um erro.
+2019-08-15 14:15:07,996 - INFO - Cursos listados com sucesso.
+2019-08-15 14:15:08,182 - INFO - Listando cursos.
+2019-08-15 14:15:08,183 - ERROR - Aconteceu um erro.
+2019-08-15 14:15:08,183 - INFO - Cursos listados com sucesso.
+2019-08-15 14:15:08,384 - INFO - Listando cursos.
+2019-08-15 14:15:08,385 - ERROR - Aconteceu um erro.
+2019-08-15 14:15:08,385 - INFO - Cursos listados com sucesso.
+2019-08-15 14:15:08,575 - INFO - Listando cursos.
+2019-08-15 14:15:08,575 - ERROR - Aconteceu um erro.
+2019-08-15 14:15:08,576 - INFO - Cursos listados com sucesso.
+2019-08-15 14:15:08,768 - INFO - Listando cursos.
+2019-08-15 14:15:08,768 - ERROR - Aconteceu um erro.
+2019-08-15 14:15:08,769 - INFO - Cursos listados com sucesso.
+2019-08-15 14:15:09,017 - INFO - Listando cursos.
+2019-08-15 14:15:09,017 - ERROR - Aconteceu um erro.
+2019-08-15 14:15:09,017 - INFO - Cursos listados com sucesso.
+2019-08-15 14:46:52,100 - INFO - Listando endereços.
+2019-08-15 14:46:52,101 - ERROR - Aconteceu um erro.
+2019-08-15 14:46:52,101 - INFO - Endereços listados com sucesso.
+2019-08-15 14:46:53,343 - INFO - Listando endereços.
+2019-08-15 14:46:53,343 - ERROR - Aconteceu um erro.
+2019-08-15 14:46:53,343 - INFO - Endereços listados com sucesso.
+2019-08-15 14:46:53,562 - INFO - Listando endereços.
+2019-08-15 14:46:53,563 - ERROR - Aconteceu um erro.
+2019-08-15 14:46:53,563 - INFO - Endereços listados com sucesso.
+2019-08-15 14:46:54,143 - INFO - Listando endereços.
+2019-08-15 14:46:54,144 - ERROR - Aconteceu um erro.
+2019-08-15 14:46:54,144 - INFO - Endereços listados com sucesso.
+2019-08-15 14:46:54,728 - INFO - Listando endereços.
+2019-08-15 14:46:54,728 - ERROR - Aconteceu um erro.
+2019-08-15 14:46:54,729 - INFO - Endereços listados com sucesso.
+2019-08-15 14:51:03,596 - INFO - Cadastrando endereco.
+2019-08-15 14:51:03,668 - INFO - Endereço cadastrado com sucesso.
+2019-08-15 14:51:15,302 - INFO - Listando endereços.
+2019-08-15 14:51:15,303 - INFO - Endereços listados com sucesso.
+2019-08-15 14:51:20,365 - INFO - Listando endereço.
+2019-08-15 14:51:20,366 - INFO - Endereço listado com sucesso.
+2019-08-15 14:51:42,193 - INFO - Listando endereços.
+2019-08-15 14:51:42,193 - INFO - Endereços listados com sucesso.
+2019-08-15 14:52:03,422 - INFO - Cadastrando aluno...
+2019-08-15 14:52:03,518 - INFO - Aluno Cadastrado com sucesso.
+2019-08-15 14:52:09,180 - INFO - Cadastrando campus.
+2019-08-15 14:52:09,267 - INFO - campus cadastrado com sucesso.
+2019-08-15 14:52:12,793 - INFO - Cadastrando turno.
+2019-08-15 14:52:12,850 - INFO - Turno cadastrado com sucesso.
+2019-08-15 14:52:15,563 - INFO - Cadastrando turma.
+2019-08-15 14:52:15,650 - INFO - Turma cadastrada com sucesso.
+2019-08-15 14:52:18,651 - INFO - Cadastrando disciplina.
+2019-08-15 14:52:18,716 - INFO - Disciplina cadastrada com sucesso.
+2019-08-15 14:52:21,481 - INFO - Cadastrando professor.
+2019-08-15 14:52:24,125 - INFO - Cadastrando escola.
+2019-08-15 14:52:24,209 - INFO - Escola cadastrada com sucesso.
+2019-08-15 14:52:26,776 - INFO - Cadastrando curso.
+2019-08-15 14:52:26,849 - INFO - Curso cadastrado com sucesso.
+2019-08-15 14:52:30,020 - INFO - Listando cursos.
+2019-08-15 14:52:30,021 - INFO - Cursos listados com sucesso.
+2019-08-15 14:52:32,439 - INFO - Listando escolas.
+2019-08-15 14:52:35,055 - INFO - Listando professores.
+2019-08-15 14:52:35,056 - INFO - Professores listados com sucesso.
+2019-08-15 14:52:38,005 - INFO - Listando disciplinas.
+2019-08-15 14:52:38,006 - INFO - Disciplinas listadas com sucesso.
+2019-08-15 14:52:40,452 - INFO - Listando turmas.
+2019-08-15 14:52:40,453 - INFO - Turmas listadas com sucesso.
+2019-08-15 14:52:43,202 - INFO - Listando turnos.
+2019-08-15 14:52:43,203 - INFO - Turnos listados com sucesso.
+2019-08-15 14:52:46,147 - INFO - Listando endereços.
+2019-08-15 14:52:46,147 - INFO - Endereços listados com sucesso.
+2019-08-15 14:52:50,189 - INFO - Listando alunos.
+2019-08-15 14:52:50,190 - INFO - Alunos listado com sucesso.
+2019-08-15 14:52:52,848 - INFO - Listando campus
+2019-08-15 14:52:52,849 - INFO - Campus listados com sucesso.
+2019-08-15 14:54:09,830 - INFO - Cadastrando endereco.
+2019-08-15 14:54:09,905 - INFO - Endereço cadastrado com sucesso.
+2019-08-15 14:54:23,512 - INFO - Listando endereços.
+2019-08-15 14:54:23,513 - INFO - Endereços listados com sucesso.
+2019-11-01 09:27:56,767 - INFO - Listando alunos.
+2019-11-01 09:27:56,825 - INFO - Alunos listado com sucesso.
+2019-11-08 08:51:00,155 - INFO - Cadastrando turno.
+2019-11-08 08:51:10,740 - INFO - Listando turnos.
+2019-11-08 08:51:10,779 - INFO - Turnos listados com sucesso.
+2019-11-08 08:51:35,332 - INFO - Cadastrando turno.
+2019-11-08 08:51:39,519 - INFO - Listando turnos.
+2019-11-08 08:51:39,519 - INFO - Turnos listados com sucesso.
+2019-11-08 08:55:49,643 - INFO - Listando turnos.
+2019-11-08 08:55:49,644 - INFO - Turnos listados com sucesso.
+2019-11-08 10:15:48,715 - INFO - Cadastrando turno.
+2019-11-08 10:16:55,479 - INFO - Cadastrando professor.
+2019-11-08 10:17:13,361 - INFO - Cadastrando professor.
+2019-11-08 10:19:21,412 - INFO - Cadastrando turma.
+2019-11-08 10:19:46,797 - INFO - Cadastrando turma.
+2019-11-08 10:20:27,723 - INFO - Cadastrando turma.
+2019-11-08 10:22:38,155 - INFO - Cadastrando turma.
+2019-11-08 10:23:42,526 - INFO - Cadastrando turma.
+2019-11-08 10:27:27,656 - INFO - Cadastrando turma.
+2019-11-08 10:31:29,489 - INFO - Cadastrando turma.
+2019-11-08 10:33:11,795 - INFO - Cadastrando turma.
+2019-11-08 10:35:11,754 - INFO - Cadastrando turma.
+2019-11-21 11:08:03,538 - INFO - Cadastrando escola.
+2019-11-22 10:39:24,228 - INFO - Cadastrando turno.
