@@ -6,4 +6,4 @@ class Aluno():
         self.cpf = cpf
         self.nascimento = nascimento
         self.fk_id_endereco = fk_id_endereco
-        self.fk_id_curso
+        self.fk_id_curso = fk_id_curso
